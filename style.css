@@ -119,7 +119,7 @@ body {
     background-color: rgba(255, 255, 255, 0.1);
     color: #F6F1D1;
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
     margin-bottom: 0.5rem;
     padding: 1rem 3rem;
   }
